@@ -1,0 +1,12 @@
+  .git
+  lua
+    configs
+    plugins
+  │  chadrc.lua
+  │  mappings.lua
+  └  options.lua
+   .stylua.toml
+   init.lua
+   lazy-lock.json
+   LICENSE
+  󰂺 README.md
